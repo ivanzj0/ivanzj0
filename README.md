@@ -7,10 +7,38 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :school: I am a `Student` at the Information Systems Engineering Faculty in Mendoza.
+- :school: I am Ivan Zirulnik, a 20 years old `Student` at the Information Systems Engineering Faculty in Mendoza.
 - :nerd_face: I am always learning new things.
 - :thinking: I am currently open for new `job opportunities`.
 - :student: Continuously expanding my knowledge in `programming`.
+
+###  Areas of Specialization
+#### 🖥️ Front-End Development
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem" alt="HTML5"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem" alt="CSS3"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem" alt="JavaScript"/></td>
+  </tr>
+  </table>
+
+### 🔧 Languages and Tools
+<table>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></td>
+    <td><img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem" alt="Git"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white" alt="GitHub"/></td>
+  </tr>
+</table>
+
+### 🤔 Future Endeavors::
+- To delve deeper into backend development, mastering frameworks like Django and Node.js, with the aim of building robust and scalable web applications.
+- To acquire proficiency in cloud computing platforms such as AWS or Azure, enabling the deployment of applications in scalable and secure environments.
+- To actively engage in continuous learning and professional development, attending workshops, completing online courses, and participating in hackathons to broaden my skill set and stay abreast of emerging technologies in the field of software engineering.
+- Ultimately, to leverage my programming skills and engineering background to make meaningful contributions to innovative projects that positively impact society and advance technology.
+
+
 ## <b> Conect with me..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
